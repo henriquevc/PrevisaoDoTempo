@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "487295546601",
+    "firebase_url": "https://previsaodotempo-d0771.firebaseio.com",
+    "project_id": "previsaodotempo-d0771",
+    "storage_bucket": "previsaodotempo-d0771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487295546601:android:8dc4c0afe27ebe67",
+        "android_client_info": {
+          "package_name": "com.example.henrique.previsodotempo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487295546601-t6op791ofehkqnsiph4v7q68g0fjtpvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.henrique.previsodotempo",
+            "certificate_hash": "75e737fb53cd7332e571222bb4622299cdf16164"
+          }
+        },
+        {
+          "client_id": "487295546601-geoh89mvqrg32ut96omgn1lsi3p8nv1m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "487295546601-geoh89mvqrg32ut96omgn1lsi3p8nv1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68MSbm6V8fNzvawSAEYAndqg7HNSdWi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487295546601-geoh89mvqrg32ut96omgn1lsi3p8nv1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
